@@ -1,0 +1,14 @@
+13 aaaabbcaabcacaacb
+a 10
+b 6
+c 8
+aa 2
+aaa 3
+aaaa 1
+ab 9
+bbc 1
+bb 1000
+aab 10000
+cac 900
+ca 50
+cc 45
